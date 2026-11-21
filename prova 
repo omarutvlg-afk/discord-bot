@@ -1,0 +1,8 @@
+discord.py>=2.4,<3
+python-dotenv>=1.0bot.db.env
+bot.db
+bot.db-journal
+__pycache__/
+*.py[cod]
+.venv/
+venv/
